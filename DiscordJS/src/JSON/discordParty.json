@@ -1,0 +1,150 @@
+{
+      "discordParty": [
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": false,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": false,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": false,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": true,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": false,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": false,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": false,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": false,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": " ",
+                  "isBot": false,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": false,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": false,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": true,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": false,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": false,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": false,
+                  "messengerID": "",
+                  "telephone": ""
+            },
+            {
+                  "discordID": "",
+                  "discriminator": "",
+                  "username": "",
+                  "isBot": true,
+                  "messengerID": "",
+                  "telephone": ""
+            }
+      ],
+      "whiteList": [
+            {
+                  "discordID": "",
+                  "name": ""
+            },
+            {
+                  "discordID": "",
+                  "name": ""
+            },
+            {
+                  "discordID": "",
+                  "name": ""
+            },
+            {
+                  "discordID": "",
+                  "name": ""
+            }
+      ]
+}

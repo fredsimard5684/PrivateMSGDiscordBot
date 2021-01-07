@@ -1,0 +1,20 @@
+Here's a list of the possible commands:
+- !spam.alex <message> <time(s)> : spams Toutou with a msg of your choice. If no msg is specified, sends 'Let's follow Alexandre :musical_note:.
+
+- !spam.target <discriminator> <message> <time(s)> : Spams a target based on his discriminator (Ex: #0613). If no message or time is specified, spams 'Ur being spammed' for 30 seconds. discriminator must be specified.
+
+- !spam.messenger <discriminator> <message> <time(s)> : Spams a target on messenger based on his discriminator (Ex: #0613). If no message or time is specified, spams 'Ur being spammed' for 30 seconds. discriminator must be specified. time can't be more then 30secs, if more than 30secs, the time is automaticly set to 30.
+
+-!spam.sms <discriminator> <message> <time(s)> : Spams a target by sms base on his discriminator (Ex: #0613). If no message or time is specified, spams 'Ur being spammed' for 30 seconds. discriminator must be specified. time can't be more then 30secs, if more than 30secs, the time is automaticly set to 30.
+    
+!spam.help : Sends this help msg.
+
+- !whitelist.changeinfo <discriminator> <messengerID> and/or <telephone> :Add/modify the messenger id and/or the telephone number(the telephone number must starts with +1) of a member in the server " 
+CAN ONLY BE USE BY A WHITELISTED PERSON! **The messengerID and telephone can be use before or after each other. (exemple of discriminator: #0613).
+
+- !whitelist.addtowhitelist <discordID> <name> : Add someone to the whitelist with his discord id (Ex: 198841872502882313) and his name(can be anything).
+CAN ONLY BE USE BY A WHITELISTED PERSON!
+
+- !whitelist.removemember <discriminator> : Remove someone from the JSON file by his discriminator(#0613). CAN ONLY BE USE BY A WHITELISTED PERSON!
+
+- !whitelist.removefromwhitelist <discordID> : Remove someone from the whitelist by his discord id(Ex: 198841872502882313). CAN ONLY BE USE BY A WHITELISTED PERSON!
